@@ -1,4 +1,6 @@
-# Voice Based News Application
+# Voice Based News Application 
+
+ https://kakadia-zeel.github.io/Voiced-Based-News-Application/
 
 This is my first project after learning React. With the help of this Application one can search News by giving voice commands. <br />
 I am using `Alan AI API` for transforming voice commands into text. And for fetching news I have used `NEWS API`.<br />
