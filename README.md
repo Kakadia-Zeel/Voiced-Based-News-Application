@@ -1,4 +1,14 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Voice Based News Application
+
+This is my first project after learning React. With the help of this Application one can search News by giving voice commands. <br />
+I am using `Alan ai API` for transforming voice commands into text. And for fetching news I have used `NEWS API`.<br />
+
+## Snippets
+
+
+
+
+
 
 ## Available Scripts
 
