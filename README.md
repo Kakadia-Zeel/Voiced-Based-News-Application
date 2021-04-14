@@ -1,13 +1,55 @@
 # Voice Based News Application
 
 This is my first project after learning React. With the help of this Application one can search News by giving voice commands. <br />
-I am using `Alan ai API` for transforming voice commands into text. And for fetching news I have used `NEWS API`.<br />
+I am using `Alan AI API` for transforming voice commands into text. And for fetching news I have used `NEWS API`.<br />
+
+Link for Alan AI : https://alan.app/ <br>
+Link for News API : https://newsapi.org/
+
+User can fetch :
+- Latest News
+- News By Categories (such as Business, Health, Science, Entertainment, etc.)
+- News By Terms (such as Bitcoin, Play Station, Smartphone , etc. )
+- News By Sources (such as CNN, BBC, NDTV, etc. ) 
+
+Apart from that Alan AI can also read headlines if user permits.
+
+## Some Conversation
+
+User : `What does this app do?','What can I do here?'`<br>
+Alan AI : `This is a news application`
+
+User : `Give me the latest News'`<br>
+Alan AI : It will fetch latest news.
+
+Alan AI: `Would you like me to read the Headlines?`<br>
+User : Yes or No as per convenience.
+
+User : `Go Back!`<br>
+Alan AI : `Sure`
+
 
 ## Snippets
 
+### Home Page
+![HomePage](images/Screenshot%20(6).png) <br />
 
 
 
+### Searching Latest News
+![Searching](images/Screenshot%20(8).png) <br />
+
+
+### Getting Result
+![Result](images/Screenshot%20(15).png) <br />
+
+
+### Searching News By Topic
+![Searching](images/Screenshot%20(16).png) <br />
+
+
+### Getting Result
+![Searching](images/Screenshot%20(17).png) <br />
 
 
 ## Available Scripts
